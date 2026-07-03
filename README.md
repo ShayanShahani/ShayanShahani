@@ -138,9 +138,8 @@ Currently expanding my knowledge in **Artificial Intelligence**, **System Design
 
 # 🐍 Contribution Snake
 
-> Enable this using the **Platane/snk GitHub Action**.
+![snake gif](https://github.com/ShayanShahani/ShayanShahani/blob/output/github-snake-dark.svg)
 
-![Snake animation](https://raw.githubusercontent.com/ShayanShahani/ShayanShahani/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
