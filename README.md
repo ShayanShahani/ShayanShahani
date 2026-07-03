@@ -16,7 +16,7 @@
 
 # 🧑🏻‍💻 About Me
 
-I'm **Shayan Shahani**, a **Software Engineer** from **Tehran, Iran** building scalable web applications, workflow automation systems, and developer tools.
+I'm **Shayan Shahani**, a **Software Engineer** from **Tehran, Iran**, building scalable web applications, workflow automation systems, and developer tools.
 
 I enjoy designing software that solves real-world problems—from **full-stack web applications** and **enterprise automation platforms** to **AI-powered solutions**. I believe great software is not only functional, but also clean, maintainable, and enjoyable to use.
 
