@@ -47,7 +47,7 @@ Currently expanding my knowledge in **Artificial Intelligence**, **System Design
 # 🌐 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/test">
+<a href="https://www.linkedin.com/in/shayanshahani">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
   
